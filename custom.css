@@ -1,0 +1,56 @@
+/* Change the page background color */
+body {
+    background-color: #f4f4f4;
+}
+
+/* Style for the page title */
+#root h1 {
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+    background-color: #00bcd4;
+    color: white;
+    border-radius: 10px;
+}
+
+/* Style for headers */
+h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+/* Style for buttons */
+button {
+    background-color: #00bcd4;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0097a7;
+}
+
+/* Style for sidebar */
+.sidebar .sidebar-content {
+    background-color: #0097a7;
+    color: white;
+}
+
+/* Style for text */
+p {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+}
+
+/* Style for code blocks */
+pre {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
